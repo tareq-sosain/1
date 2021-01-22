@@ -1,0 +1,421 @@
+body{
+  margin-top: 70px;
+  overflow-x: hidden;
+  background-image: url("https://i.postimg.cc/6qXhcN4Q/Whats-App-Image-2020-12-31-at-11-12-31-PM.jpg"); 
+}
+main {
+  min-height: 80vh;
+  color: #eca409;
+}
+
+h3 {
+  padding: 1rem 0;
+  color: #eca409;
+}
+
+h1 {
+  font-size: 2rem;
+  padding: 1rem 0;
+  color: #eca409;
+  
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+  color: #eca409;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+.btn-sm{
+  border-radius: 10px;
+  font-size: 10px;
+}
+.bgshop{
+  background-color: rgba(7, 6, 6, 0.76);
+}
+#btnUD{
+  color: #c27605;
+}
+
+.foad{
+  color: #eca409;
+background-color: rgba(2, 1, 0, 0.699);
+border-radius: 60px;
+}
+/* navbar */
+.navbar{
+background-color: black;
+}
+
+.header1{
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.87);
+  border-radius: 20px;
+}
+
+.bgHO{
+  background-color: rgba(0, 0, 0, 0.836);
+}
+
+   /*table  */
+.tabb{
+color: rgb(223, 219, 216);
+font-size: 20px;
+background-color:  rgba(0, 0, 0, 0.836);
+}
+ 
+.USErpro{
+  background-color: rgba(0, 0, 0, 0.836);
+  margin-left: 10px;
+}
+
+#USEEdit{
+  background-color: rgba(0, 0, 0, 0.836);
+}
+.hEdit{
+  color: antiquewhite;
+}
+
+#btup{
+  background-color: rgb(214, 127, 13);
+  border-radius: 10px;
+ 
+}
+.rounded{
+  background-color: #232327;
+margin-left: 4px;
+}
+
+.hlinkBr{
+  color: antiquewhite;
+}
+.hlinkBr:hover{
+  color: rgb(224, 138, 26);
+}
+#Shipping{
+  
+  background-color: black;
+}
+.LatestPro{
+  background-color: rgba(0, 0, 0, 0.836);
+ margin-left:auto;
+}
+.imgprod:hover{
+  transform: scale(1.1);
+  transition: transform .1s;
+}
+.btn{
+  color: #c27605;
+  margin-left: 15px;
+  font-size: larger;
+}
+#oderemail{
+  color: antiquewhite;
+}
+.Reviews{
+  background-color: rgba(0, 0, 0, 0.836);
+ 
+
+}
+.Reviews1{
+  background-color: rgba(0, 0, 0, 0.836);
+ margin-left: 15px;
+
+}
+.hReviews{
+  background-color: rgba(0, 0, 0, 0.644);
+}
+
+.pimageSI{
+  margin-bottom: 10px;
+margin-left: auto;
+margin-right:auto;
+
+}
+
+#labuser{
+  color:  rgb(223, 219, 216);
+}
+
+.oraderall{
+  margin-left: 10px;
+  background-color: rgba(0, 0, 0, 0.788);
+}
+
+#linkid{
+  color: antiquewhite;
+}
+
+#tnv{
+  color:#d19719;
+}
+#tn{
+  color:#d19719 ;
+  background-color: black;
+}
+/* SignIn */
+#SignIn{
+  background-color:rgba(0, 0, 0, 0.74) ;
+}
+/* Register */
+.Register{
+  color: #c27605;
+}
+.Register:hover{
+  color: #e6e0d7;
+}
+#SignR{
+  background-color:rgba(0, 0, 0, 0.74) ;
+}
+
+/* cleint */
+.div-clint{
+  background-color:rgba(0, 0, 0, 0.74) ;
+}
+/* home */
+.home{
+  background-color: rgba(0, 0, 0, 0.925);
+
+}
+.you{
+width: auto;
+margin: 5px 5px;
+background-color:rgba(0, 0, 0, 0.842);
+
+}
+.card{
+  margin-top: 25px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* prodect */
+/* .pro{
+  margin-top: 80px;
+} */
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h2 {
+  color: rgb(236, 138, 10);
+}
+
+.carousel img {
+  height: 300px;
+  padding: 30px;
+  margin: 40px;
+
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel a {
+  margin: 0 auto;
+}
+@media (max-width: 900px) {
+  .carousel-caption h2 {
+    font-size: 2.5vw;
+  }
+}
+.logo{
+  width: 80px;
+  margin-bottom: 3px;
+}
+
+/* carousel */
+.carousel{
+  background-color: #000000bd;
+  
+}
+/* EDIT PRODUCT */
+#hEDITPRODUCT{
+  background-color: #000000b9;
+  text-align: center;
+}
+
+#EDITPRODUCT{
+  background-color: #000000b9;
+
+}
+/* abouts */
+.abut{
+  background-color: rgba(0, 0, 0, 0.836);
+  width: 100%;
+  height:800px;
+}
+.h-about{
+  color: #eca409;
+  font-size: 0.9rem;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: rgba(7, 7, 7, 0.685);
+  width:165px;
+  margin-bottom: 25px;
+ 
+}
+.h-about2{
+  margin:9px;
+}
+.t-about{
+  background-color: rgb(12, 12, 12);
+  color:#f7c250;
+ padding-left: 10px;
+ border-radius: 2rem;
+ font-size:medium;
+ padding-bottom: 10px;
+ padding-top: 15px;
+
+}
+
+/* News */
+.h-new{
+  color: #eca409;
+  font-size: 1rem;
+  margin-top: 65px;
+  border-radius: 10px;
+  background-color: rgba(7, 7, 7, 0.685);
+  width:200px;
+  margin-bottom: 15px;
+ 
+}
+.s-new{
+  margin-left: 5px;
+}
+
+.img-news{
+  width: 400px;
+  border-radius: 10px;
+  margin-left: 20px;
+
+}
+.img-news:hover{
+  transform: scale(1.1);
+    transition: transform .1s;
+    
+  
+}
+/* contact */
+.h-Conatct{
+  color: #eca409;
+  font-size: 1rem;
+  margin-top: 65px;
+  border-radius: 10px;
+  background-color: rgba(7, 7, 7, 0.685);
+  width:160px;
+  margin-bottom: 15px;
+  margin-left: 11px;
+}
+.s-Conatct{
+  margin-left: 5px;
+}
+.contact{
+  background-color: rgba(12, 12, 12, 0.856);
+  color:  #eca409;
+  margin-top: 60px;
+
+ 
+  padding-bottom: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border-radius: 2rem;
+  
+}
+
+.bt-send{
+
+position: absolute;
+margin-left: 10%;
+width: 100px;
+height: 50px;
+margin-top: 20px;
+
+
+}
+
+/* Client */
+
+.div-clint{
+  text-align: center;
+}
+
+.t-Client{
+    color: #eca409;
+    font-size: 2rem;
+    margin-top: 55px;
+    background-color: rgba(7, 7, 7, 0.685);
+    width: 190px;
+   margin-left: 120px;
+  }
+
+  .clientimg{
+    height:300px;
+    width:300px;
+    display:inline-block;
+    margin: 20px 5px 5px 5px;
+    
+   
+    
+  }
+  
+
+  .clientimg:hover{
+    transform: scale(1.1);
+    transition: transform .1s;
+  }
+
+/* PHOTOGALLERY */
+
+.div-imgPHOTOGALLERY{
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: rgba(0, 0, 0, 0.815);
+}
+/* .h-PHOTOGALLERY{
+border-radius: 80px;
+ 
+} */
+
+.t-PHOTOGALLERY{
+  color: #eca409;
+  font-size: 2rem;
+ 
+  
+  background-color: rgba(7, 7, 7, 0.685);
+  width: 190px;
+ margin-left: 120px;
+}
+
+.imgPHOTOGALLERY{
+  height:300px;
+    width:300px;
+    display:inline-block;
+    margin: 20px 5px 5px 5px;
+   
+  
+}
+
+.imgPHOTOGALLERY:hover{
+  transform: scale(1.1);
+  transition: transform .1s;
+}
+.footerd{
+
+  background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #232327, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: #eca409;
+
+}
+
